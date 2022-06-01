@@ -11,7 +11,7 @@ Using a command line console (called terminal on Mac OS X and command prompt on 
 
 ```risingcloud login```
 
-# 3. Initialize Your Rising Cloud Task
+# 3. Initialize Your Rising Cloud Web Service
 
 Create a new directory to place your project files in, then open this directory with your command line.
 
@@ -25,7 +25,7 @@ If a task name is not available, the CLI will return with an error so you can tr
 
 This creates a **risingcloud.yaml** file in your project directory. This file can be used to configure the build script.
 
-# 4. Configure your Rising Cloud Task
+# 4. Configure your Rising Cloud Web Service
 
 Configure your risingcloud.yaml
 
